@@ -1,5 +1,7 @@
 # pointing_gesture_dataset
 
+Access the dataset by https://drive.google.com/file/d/1qPy8ROMeqtVznPEjnvmPbTTSz7IbGHVM/view?usp=sharing
+
 This dataset contains five different pointing gestures and one relaxing gesture.
 
 The gestures and corresponding notations are shown below.
